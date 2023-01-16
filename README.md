@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma Tron
 - 👀 I’m interested in switching careers
-- 🌱 I’m currently learning java & python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on beginner friendly tasks
 - 📫 How to reach me ...
 
